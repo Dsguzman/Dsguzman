@@ -1,111 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E274B3,100:6C5CE7&height=220&section=header&text=Hola,%20soy%20Dsguzm%C3%A1n&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%7C%20Aprendiendo%20y%20construyendo%20cosas%20nuevas&descAlignY=58&descSize=16" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:ff00a0,100:00f0ff&height=260&section=header&text=DSGUZMAN&fontSize=70&fontColor=00f0ff&stroke=ff00a0&strokeWidth=2&animation=twinkling&fontAlignY=40&desc=%5B%20SYSTEM%20ONLINE%20%5D%20%2F%2F%20NEURAL%20LINK%20ESTABLISHED&descAlignY=62&descSize=16" width="100%" alt="banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E274B3&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Me+apasiona+aprender+tecnolog%C3%ADa;Construyendo+proyectos+d%C3%ADa+a+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F0FF&background=0D022100&center=true&vCenter=true&width=700&height=50&lines=%3E+INICIANDO+PERFIL...;%3E+ACCESO+CONCEDIDO+%E2%9C%94;%3E+BIENVENIDO+A+LA+MATRIX+%F0%9F%91%BE;%3E+CODE.+HACK.+REPEAT." alt="typing" />
 
 <br/>
 
-![Vistas del perfil](https://komarev.com/ghpvc/?username=Dsguzman&label=Visitas&color=e274b3&style=for-the-badge)
-![Seguidores](https://img.shields.io/github/followers/Dsguzman?label=Seguidores&style=for-the-badge&color=6c5ce7&logo=github)
+![Visitas](https://komarev.com/ghpvc/?username=Dsguzman&label=VISITAS&color=ff00a0&style=for-the-badge&labelColor=0d0221)
+![Seguidores](https://img.shields.io/github/followers/Dsguzman?label=SEGUIDORES&style=for-the-badge&color=00f0ff&labelColor=0d0221&logo=github&logoColor=00f0ff)
+![Estado](https://img.shields.io/badge/ESTADO-ONLINE-39ff14?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 👨‍💻 Sobre mí
+## `> cat sobre_mi.txt`
 
-- 🔭 Actualmente trabajando en: **[tu proyecto actual]**
-- 🌱 Aprendiendo: **[tecnología que estás aprendiendo]**
-- 🤝 Me gustaría colaborar en: **[tipo de proyectos]**
-- 💬 Pregúntame sobre: **[tus temas favoritos]**
-- 📍 Ubicación: **Colombia 🇨🇴**
-- ⚡ Dato curioso: **[algo divertido sobre ti]**
+```ini
+[USUARIO]
+nombre      = Dsguzman
+rol         = Desarrollador en construcción
+ubicacion   = Colombia 🇨🇴 // Sector: LATAM
 
----
+[MISION_ACTUAL]
+trabajando  = [tu proyecto actual]
+aprendiendo = [tecnología que estás aprendiendo]
+buscando    = [colaboraciones / oportunidades]
 
-## 🛠️ Tecnologías y herramientas
+[STATUS]
+nivel       = ████████░░ 80%  // cargando skills...
+cafe        = ☕ ∞
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## `> ./load_skills.sh`
 
 <div align="center">
 
-**Lenguajes**
+**[ LENGUAJES ]**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=0d0221&color=00f0ff)
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=ff00a0&labelColor=0d0221&color=ff00a0)
+![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0d0221&color=00f0ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=ff00a0&labelColor=0d0221&color=ff00a0)
 
-**Frameworks y librerías**
+**[ FRAMEWORKS ]**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=0d0221&color=00f0ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=39ff14&labelColor=0d0221&color=39ff14)
 
-**Bases de datos**
+**[ BASES DE DATOS ]**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=ff00a0&labelColor=0d0221&color=ff00a0)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=39ff14&labelColor=0d0221&color=39ff14)
 
-**Herramientas**
+**[ HERRAMIENTAS ]**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=ff00a0&labelColor=0d0221&color=ff00a0)
+![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d0221&color=00f0ff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0221?style=for-the-badge&logo=visualstudiocode&logoColor=00f0ff&labelColor=0d0221&color=00f0ff)
+![Postman](https://img.shields.io/badge/Postman-0d0221?style=for-the-badge&logo=postman&logoColor=ff00a0&labelColor=0d0221&color=ff00a0)
 
 </div>
 
-> ✏️ Deja solo las tecnologías que realmente uses y borra el resto.
+> ✏️ Deja solo las tecnologías que uses y borra el resto.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📊 Estadísticas de GitHub
+## `> sudo show --stats`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dsguzman&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e274b3&icon_color=6c5ce7" alt="Estadísticas" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsguzman&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e274b3" alt="Lenguajes" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dsguzman&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00f0ff&icon_color=ff00a0&text_color=e0e0ff&ring_color=00f0ff&border_radius=10" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dsguzman&layout=compact&hide_border=true&bg_color=0d0221&title_color=00f0ff&text_color=e0e0ff&border_radius=10" alt="Lenguajes" />
 
-<img src="https://streak-stats.demolab.com?user=Dsguzman&theme=radical&hide_border=true&background=0d1117&ring=e274b3&fire=6c5ce7&currStreakLabel=e274b3" alt="Racha" />
+<img src="https://streak-stats.demolab.com?user=Dsguzman&hide_border=true&background=0d0221&ring=ff00a0&fire=00f0ff&currStreakLabel=00f0ff&currStreakNum=ff00a0&sideNums=ff00a0&sideLabels=00f0ff&dates=8888aa&stroke=ff00a033&border=00f0ff" alt="Racha" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🚀 Proyectos destacados
+## `> ls ./proyectos`
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**Mi repositorio**](https://github.com/Dsguzman/Mi-repositorio) | Proyecto de pruebas con Tecno Brunos | `Bruno` `API` |
-| 🔜 **Próximo proyecto** | Describe aquí qué hace y qué problema resuelve | `Tecnología` |
-| 🔜 **Otro proyecto** | Describe aquí qué hace y qué problema resuelve | `Tecnología` |
+| 🟣 Proyecto | 📡 Descripción | ⚙️ Stack |
+|:-----------:|:---------------|:--------:|
+| [**Mi repositorio**](https://github.com/Dsguzman/Mi-repositorio) | Pruebas de API con Tecno Brunos | `Bruno` `API` |
+| 🔒 **[CLASIFICADO]** | Próximo proyecto en desarrollo... | `???` |
+| 🔒 **[CLASIFICADO]** | Describe aquí qué hace y qué problema resuelve | `???` |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 🏆 Logros
+## `> ./trophies --show`
 
 <div align="center">
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Dsguzman&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=Dsguzman&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=6&title-color=00f0ff)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📫 Contáctame
+## `> ping contacto`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/57TUNUMERO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f0ff&color=00f0ff)](https://linkedin.com/in/TU-USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=ff00a0&color=ff00a0)](mailto:tu-correo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=00f0ff&color=00f0ff)](https://instagram.com/TU-USUARIO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d0221?style=for-the-badge&logo=whatsapp&logoColor=39ff14&color=39ff14)](https://wa.me/57TUNUMERO)
 
 <br/>
 
-⭐ *Si algo de lo que ves te gusta, regálame una estrella en mis repositorios* ⭐
+```
+> CONEXIÓN SEGURA ESTABLECIDA
+> "El futuro no se espera, se programa."
+> _
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:E274B3&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff00a0,100:0d0221&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
