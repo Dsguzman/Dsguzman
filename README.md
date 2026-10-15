@@ -29,9 +29,7 @@ rol         = Desarrollador en construcción
 ubicacion   = Colombia 🇨🇴 // LATAM
 
 [MISION_ACTUAL]
-trabajando  = [tu proyecto actual]
-aprendiendo = [tecnología que estás aprendiendo]
-buscando    = [colaboraciones / oportunidades]
+trabajando  = Bots Automatizados para whatsapp 
 ```
 
 </td>
